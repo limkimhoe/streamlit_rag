@@ -1,0 +1,10 @@
+openai
+streamlit
+pandas
+python-dotenv
+tiktoken
+chromadb>=0.5.0
+pypdf>=4.0.0
+pysqlite3-binary
+requests
+beautifulsoup4
